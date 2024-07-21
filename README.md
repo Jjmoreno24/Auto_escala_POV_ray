@@ -42,8 +42,10 @@ object { Arbol translate <-50,0,-10> }
 // ... (más objetos de la escena)
 ```
 
-## 🔭 Execution 
-![carrito](https://github.com/Jjmoreno24/Auto_escala_POV_ray/assets/117414953/d10bcc88-d182-48cf-874d-255d1787405e)
+## 🔭 Vista - Ejecución
+<div align="center">
+    <img src="https://github.com/Jjmoreno24/Auto_escala_POV_ray/assets/117414953/d10bcc88-d182-48cf-874d-255d1787405e" alt="carrito" width="600" height="400" />
+</div>
 
 <br>
 <div align="center">
